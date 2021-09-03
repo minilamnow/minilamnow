@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mini Lam, an Engineer and Technical Communication Expert with over a decade of cross-disciplinary experience across industries.
-- 👀 I’m interested in emerging technologies and their impact on society, people, and the workplace. 
+- 👀 I create content on emerging technologies and their impact on society, people, and the workplace. 
 - 🌱 At Relay Impact, I share resources, strategies, and toolkits to make digital transformation more accessible.
-- 💌 Twitter, GitHub, YouTube and LinkedIn: Follow updates for @RelayImpactNow and reach out to me @MiniLamNow
+- 💌 Connect at Twitter, GitHub, YouTube and LinkedIn: Follow updates for @RelayImpactNow and reach out to me @MiniLamNow
 
 <!---
 minilamnow/minilamnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
